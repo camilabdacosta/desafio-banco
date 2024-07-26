@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b13b6eb4-4469-41d9-b94c-dc92f86e264f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/src/main/java/io/github/camilabdacosta/VendasApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/classes/io/github/camilabdacosta/VendasApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/vendas-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestFullAPIJava/vendas/target/vendas-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The-Self-Taught-Programmer/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/collections-java-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/src/com/camilabdacosta/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ContaPoupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/IConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../literalura.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e662525a-11a9-44bb-8fd2-a1809d69ebd2" />
+        <option name="url" value="https://github.com/camilabdacosta/desafio-banco-java-basico.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jni4ItIysYGzJOtmzxnzp3Qf3x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-banco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b13b6eb4-4469-41d9-b94c-dc92f86e264f" name="Changes" comment="" />
+      <created>1722029050556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722029050556</updated>
+      <workItem from="1722029052727" duration="6086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
